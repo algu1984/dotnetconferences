@@ -934,5 +934,14 @@
     "flag": "se",
     "location": "Stockholm, Sweden",
     "favicon": "https://swetugg.se/favicon-16x16.png"
+  },
+  {
+    "name": "Update Conference Prague",
+    "url": "https://www.updateconference.net/",
+    "datefrom": "2020-11-12",
+    "dateto": "2020-11-13",
+    "flag": "cz",
+    "location": "Prague, Czech Republic",
+    "favicon": "https://www.updateconference.net/Resources/Images/Favicons/favicon-32x32.png"
   }
 ]
